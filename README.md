@@ -5,4 +5,4 @@ Dio è morto, Marx pure, e anche io non mi sento molto bene.
 - 👀 I’m interested in cinema, music and tech
 - 🌱 I’m currently learning C and Swift
 - 💞️ I’m looking to collaborate on iOS apps
-- 📫 How to reach me: [fpseverino.com](https://fpseverino.com)
+- 📫 How to reach me: [Twitter](https://twitter.com/fp_severino)
