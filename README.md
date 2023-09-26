@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning C, Java, SQL and Swift
 - 💞️ I’m looking to collaborate on iOS apps and other projects
 - 📫 How to reach me:
-    - [Twitter](https://twitter.com/fp_severino)
+    - [X (Twitter)](https://twitter.com/fp_severino)
     - [GitHub](https://github.com/fpseverino)
     - [Instagram](https://instagram.com/fp_severino?igshid=YmMyMTA2M2Y=)
