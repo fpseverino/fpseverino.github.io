@@ -8,4 +8,4 @@
 - 📫 How to reach me:
     - [X (Twitter)](https://twitter.com/fp_severino)
     - [GitHub](https://github.com/fpseverino)
-    - [Instagram](https://instagram.com/fp_severino?igshid=YmMyMTA2M2Y=)
+    - [Instagram](https://instagram.com/fp.severino)
