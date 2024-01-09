@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Francesco Paolo Severino's homepage
-description: Bookmark this to keep an eye on my project updates!
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Francesco Paolo Severino
+description: Hello, World!
