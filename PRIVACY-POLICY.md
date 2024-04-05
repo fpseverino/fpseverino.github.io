@@ -1,6 +1,8 @@
+---
 layout: page
 title: "PRIVACY-POLICY"
 permalink: /privacy-policy
+---
 
 Francesco Paolo Severino ("We", "Our", "Us") processes the personal information of app users for the following purposes, and does not use personal information for other than the following purposes.
 
