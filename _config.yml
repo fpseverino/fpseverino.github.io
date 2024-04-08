@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme
 title: Francesco Paolo Severino
 description: Hello, World!
+nav:
+  - title: "Privacy Policy"
+    url: /privacy-policy
