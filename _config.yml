@@ -1,5 +1,11 @@
-remote_theme: pages-themes/cayman@v0.2.0
+# Site settings
+title: Francesco Paolo Severino
+author:
+  name: Francesco Paolo Severino
+  email: francescopaolo.severino@gmail.com
+description: "Hello, World!"
+
+# Build settings
+remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
-title: Francesco Paolo Severino
-description: Hello, World!
