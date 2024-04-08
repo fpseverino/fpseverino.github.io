@@ -9,3 +9,12 @@ description: "Hello, World!"
 remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
+
+minima:
+  skin: auto
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/fpseverino" }
+    - { platform: twitter, user_url: "https://twitter.com/fp_severino" }
+    - { platform: instagram, user_url: "https://www.instagram.com/fp.severino" }
