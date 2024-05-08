@@ -2,8 +2,8 @@
 title: Francesco Paolo Severino
 author:
   name: Francesco Paolo Severino
-  email: francescopaolo.severino@gmail.com
-description: "Hello, World!"
+  #email: francescopaolo.severino@gmail.com
+#description: "Hello, World!"
 
 # Build settings
 remote_theme: jekyll/minima
