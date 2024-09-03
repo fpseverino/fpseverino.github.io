@@ -2,7 +2,7 @@
 title: Francesco Paolo Severino
 author:
   name: Francesco Paolo Severino
-description: "Computer Engineering student, iOS developer."
+description: "Computer Engineering student"
 
 # Build settings
 remote_theme: jekyll/minima
@@ -17,6 +17,8 @@ minima:
     - { platform: github,  user_url: "https://github.com/fpseverino" }
     - { platform: twitter, user_url: "https://twitter.com/fp_severino" }
     - { platform: instagram, user_url: "https://www.instagram.com/fp.severino" }
+    - { platform: facebook, user_url: "https://www.facebook.com/fpseverino.it/" }
+    - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/10176094/francesco-paolo-severino" }
 
 header_pages:
   - PRIVACY-POLICY.md
