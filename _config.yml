@@ -7,17 +7,18 @@ description: "Computer Engineering student"
 # Build settings
 remote_theme: jekyll/minima
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 
 minima:
-  skin: dark
+  skin: auto
 
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/fpseverino" }
+    - { platform: github, user_url: "https://github.com/fpseverino" }
     - { platform: twitter, user_url: "https://twitter.com/fp_severino" }
     - { platform: instagram, user_url: "https://www.instagram.com/fp.severino" }
     - { platform: facebook, user_url: "https://www.facebook.com/fpseverino.it/" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/fpseverino" }
     - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/10176094/francesco-paolo-severino" }
 
 header_pages:
