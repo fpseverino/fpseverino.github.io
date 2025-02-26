@@ -14,12 +14,27 @@ minima:
 
 minima:
   social_links:
-    - { platform: github, user_url: "https://github.com/fpseverino" }
-    - { platform: twitter, user_url: "https://twitter.com/fp_severino" }
-    - { platform: instagram, user_url: "https://www.instagram.com/fp.severino" }
-    - { platform: facebook, user_url: "https://www.facebook.com/fpseverino.it/" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/fpseverino" }
-    - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/10176094/francesco-paolo-severino" }
+    - title: Francesco Paolo Severino at GitHub
+      icon: github
+      url: "https://github.com/fpseverino"
+    - title: Francesco Paolo Severino at Linkedin
+      icon: linkedin
+      url: "https://www.linkedin.com/in/fpseverino"
+    - title: Francesco Paolo Severino at Mastodon
+      icon: mastodon
+      url: "https://mastodon.social/@fpseverino"
+    - title: Francesco Paolo Severino at Instagram
+      icon: instagram
+      url: "https://www.instagram.com/fp.severino"
+    - title: Francesco Paolo Severino at Facebook
+      icon: facebook
+      url: "https://www.facebook.com/fpseverino.it/"
+    - title: Francesco Paolo Severino at X (formerly Twitter)
+      icon: x-twitter
+      url: "https://twitter.com/fp_severino"
+    - title: Francesco Paolo Severino at Stack Overflow
+      icon: stackoverflow
+      url: "https://stackoverflow.com/users/10176094/francesco-paolo-severino"
 
 header_pages:
   - PRIVACY-POLICY.md
