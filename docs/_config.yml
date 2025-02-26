@@ -2,21 +2,23 @@
 title: Francesco Paolo Severino
 author:
   name: Francesco Paolo Severino
-
-description: "Computer Engineering student"
+description: Computer Engineering student
+baseurl: ""
+url: "https://fpseverino.com"
+twitter_username: fp_severino
+github_username: fpseverino
 
 # Build settings
 remote_theme: jekyll/minima
 
 plugins:
+  - jekyll-feed
   - jekyll-remote-theme
 
 # Theme-specific settings
 
 minima:
-  skin: auto
-
-minima:
+  skin: dark
   social_links:
     - title: Francesco Paolo Severino at GitHub
       icon: github
