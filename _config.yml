@@ -33,7 +33,7 @@ minima:
       icon: x-twitter
       url: "https://twitter.com/fp_severino"
     - title: Francesco Paolo Severino at Stack Overflow
-      icon: stackoverflow
+      icon: stack-overflow
       url: "https://stackoverflow.com/users/10176094/francesco-paolo-severino"
 
 header_pages:
