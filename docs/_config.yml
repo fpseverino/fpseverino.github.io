@@ -23,6 +23,9 @@ minima:
     - title: Francesco Paolo Severino at Mastodon
       icon: mastodon
       url: "https://mastodon.social/@fpseverino"
+    - title: Francesco Paolo Severino at Bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/fpseverino.bsky.social"
     - title: Francesco Paolo Severino at Instagram
       icon: instagram
       url: "https://www.instagram.com/fp.severino"
