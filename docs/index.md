@@ -27,7 +27,7 @@ D'Hondt Worry helps you calculate how many seats each list gets, for all kinds o
         <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1712275200" alt="Download on the App Store" style="border-radius: 13px; width: 180px; height: 63px;">
     </a>
 </div>
-<br \>
+<br />
 
 ### Shut The Bench
 
