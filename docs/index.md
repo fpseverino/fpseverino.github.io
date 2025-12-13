@@ -3,13 +3,21 @@ layout: home
 title: About Me
 ---
 
-- 👋 Hi, I’m Francesco Paolo Severino
+- 👋 Hi, I’m Francesco Paolo Severino, I’m a Master's student in Computer Engineering from Italy. I was born and raised in Sicily, but I am currently studying in Naples.
 
-- 👀 I’m interested in cinema, music and tech
+- 👀 When I'm not coding, I enjoy pursuing my other interests, such as cinema, music, videogames and Napoli, the football team I support.
 
-- 🌱 I’m a Computer Engineering student, currently learning C, Java, SQL, MATLAB and Python
+- 🌱 At university, I worked in C, Assembly, Java, SQL, MATLAB, Python and VHDL. My exam projects include:
+    - A [TCP/IP-based smart home server/client](https://github.com/fpseverino/progetto-sis-op) written in C.
+    - A [suite of symmetric and asymmetric encryption algorithms](https://github.com/fpseverino/sicurezza-informatica) written in various programming languages.
+    - A [smart greenhouse simulation](https://github.com/fpseverino/progetto-reti-calc) written in MATLAB/Simulink, using the TrueTime simulator, which has been published on the [Bulletin of the UNESCO chair “Distance education in engineering” of the SUAI](https://fs.guap.ru/unids/2024/ESPC-2024.pdf).
 
-- 💞️ I’m looking to collaborate on server-side Swift, iOS apps and other projects
+- 💞️ However, my favourite programming language by far, and the one I have the most experience with, is **Swift**. I started out developing small apps for Apple platforms, but now I mainly contribute to the open source world of **server-side Swift**.
+    - I maintain a [library for creating passes and orders for the Apple Wallet app](https://github.com/fpseverino/swift-wallet), including its extensions for [Fluent](https://github.com/fpseverino/fluent-wallet), [Vapor](https://github.com/vapor-community/wallet), and [Hummingbird](https://github.com/hummingbird-community/hummingbird-wallet).
+    - I contributed post-quantum cryptography algorithms within [Swift Crypto](https://github.com/apple/swift-crypto).
+    - I also rewrote the [Vapor Toolbox](https://github.com/vapor/toolbox) from scratch and created the [Vapor extension for VS Code](https://github.com/vapor/vapor-vscode).
+    - I am currently working on the [MQTT NIO](https://github.com/swift-server-community/mqtt-nio) and [STOMP NIO](https://github.com/fpseverino/stomp-nio) messaging libraries, along with many other contributions to other libraries in the ecosystem.
+    - I volunteered at the [Swift Heroes](https://swiftheroes.com/2025/) conference in Turin and [ServerSide.swift](https://www.serversideswift.info) in London, and participated in [Create with Swift Napoli Meetup](https://www.createwithswift.com/napoli-meetup/) as a speaker.
 
 ---
 
