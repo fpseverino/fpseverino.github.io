@@ -116,6 +116,12 @@ The issue has been fixed in [awslabs/swift-aws-lambda-runtime#619](https://githu
 log.logLevel = Lambda.env("LOG_LEVEL").flatMap { .init(rawValue: $0) } ?? logger.logLevel
 ```
 
+Another possible fix would have been to spell out the parameter label when passing the initializer to `flatMap`, like so:
+
+```swift
+log.logLevel = Lambda.env("LOG_LEVEL").flatMap(Logger.Level.init(rawValue:)) ?? logger.logLevel
+```
+
 ## What We Learned
 
 There are a few lessons that I think we can learn from this incident:
