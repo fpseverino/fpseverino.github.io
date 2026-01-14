@@ -19,11 +19,11 @@ title: About Me
 
     - I maintain a [library for creating passes and orders for the Apple Wallet app](https://github.com/fpseverino/swift-wallet), including its extensions for [Fluent](https://github.com/fpseverino/fluent-wallet), [Vapor](https://github.com/vapor-community/wallet), and [Hummingbird](https://github.com/hummingbird-community/hummingbird-wallet).
 
-    - I contributed post-quantum cryptography algorithms within [Swift Crypto](https://github.com/apple/swift-crypto) as part of my Bachelor's thesis.
+    - I contributed post-quantum cryptography algorithms within [Swift Crypto](https://forums.swift.org/t/post-quantum-swift-crypto-and-jwtkit/72474) as part of my Bachelor's thesis.
 
-    - I also rewrote the [Vapor Toolbox](https://github.com/vapor/toolbox) from scratch and created the [Vapor extension for VS Code](https://github.com/vapor/vapor-vscode).
+    - I also rewrote the [Vapor Toolbox](https://blog.vapor.codes/posts/toolbox-rewrite/) from scratch and created the [Vapor extension for VS Code](https://blog.vapor.codes/posts/vapor-for-vscode/).
 
-    - I am currently working on the [MQTT NIO](https://github.com/swift-server-community/mqtt-nio) (as part of the WebRTC course exam) and [STOMP NIO](https://github.com/fpseverino/stomp-nio) messaging libraries, along with many other contributions to other libraries in the ecosystem.
+    - I am currently working on the [MQTT NIO](https://github.com/WebRTC-Projects-Unina/fpseverino-mqtt-nio) (as part of the WebRTC course exam) and [STOMP NIO](https://github.com/fpseverino/stomp-nio) messaging libraries, along with many other contributions to other libraries in the ecosystem.
 
     - I volunteered at the [Swift Heroes](https://swiftheroes.com/2025/) conference in Turin and [ServerSide.swift](https://www.serversideswift.info) in London, and participated in [Create with Swift Napoli Meetup](https://www.createwithswift.com/napoli-meetup/) as a speaker.
 
