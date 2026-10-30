@@ -17,13 +17,15 @@ title: About Me
 
 - 💞️ However, my favourite programming language by far, and the one I have the most experience with, is **Swift**. I started out developing small apps for Apple platforms, but now I mainly contribute to the open source world of **server-side Swift**.
 
-    - I maintain a [library for creating passes and orders for the Apple Wallet app](https://github.com/fpseverino/swift-wallet), including its extensions for [Fluent](https://github.com/fpseverino/fluent-wallet), [Vapor](https://github.com/vapor-community/wallet), and [Hummingbird](https://github.com/hummingbird-community/hummingbird-wallet).
-
     - I contributed post-quantum cryptography algorithms within [Swift Crypto](https://forums.swift.org/t/post-quantum-swift-crypto-and-jwtkit/72474) as part of my Bachelor's thesis.
 
-    - I also rewrote the [Vapor Toolbox](https://blog.vapor.codes/posts/toolbox-rewrite/) from scratch and created the [Vapor extension for VS Code](https://blog.vapor.codes/posts/vapor-for-vscode/).
+    - I maintain the [MQTT NIO](https://github.com/WebRTC-Projects-Unina/fpseverino-mqtt-nio) (I worked on v3 of it as part of the WebRTC course exam) and [STOMP NIO](https://github.com/swift-server-community/stomp-nio) messaging libraries, along with many other contributions to other libraries in the ecosystem.
 
-    - I am currently working on the [MQTT NIO](https://github.com/WebRTC-Projects-Unina/fpseverino-mqtt-nio) (as part of the WebRTC course exam) and [STOMP NIO](https://github.com/fpseverino/stomp-nio) messaging libraries, along with many other contributions to other libraries in the ecosystem.
+    - I'm working on a WebTransport over HTTP/3 [client](https://github.com/fpseverino/swift-webtransport) and server implementation based on SwiftNIO as part of my Master's thesis.
+
+    - I also maintain a [library for creating passes and orders for the Apple Wallet app](https://github.com/fpseverino/swift-wallet), including its extensions for [Fluent](https://github.com/fpseverino/fluent-wallet), [Vapor](https://github.com/vapor-community/wallet), and [Hummingbird](https://github.com/hummingbird-community/hummingbird-wallet).
+
+    - I'm part of the Maintainers team of [Vapor](https://vapor.codes/team/) and, amongst other things, I’ve rewritten the [Vapor Toolbox](https://blog.vapor.codes/posts/toolbox-rewrite/) from scratch and created the [Vapor extension for VS Code](https://blog.vapor.codes/posts/vapor-for-vscode/).
 
     - I volunteered at the [Swift Heroes](https://swiftheroes.com/2025/) conference in Turin and [ServerSide.swift](https://www.serversideswift.info) in London, and participated in [Create with Swift Napoli Meetup](https://www.createwithswift.com/napoli-meetup/) as a speaker.
 
